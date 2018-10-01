@@ -52,7 +52,8 @@
                                 <a class="nav-link" href="/home">Enviar Mensaje</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Notificaciones<span class="badge">1</span></a>
+                                <a class="nav-link" href="#">
+                                    Notificaciones<span class="label label-danger">1</span></a>
                             </li>                            
 
                             <li class="nav-item dropdown">

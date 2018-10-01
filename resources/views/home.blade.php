@@ -30,7 +30,9 @@
                             </div>
                             
                             <div class="form-group">
-                                <button class="btn btn-primary btn-block">Enviar</button>
+                                <button class="btn btn-primary btn-block" data-toggle="tooltip" data-placement="right" title="Enviar">
+                                    Enviar
+                                </button>
                             </div>
                         </div>
                     </div>

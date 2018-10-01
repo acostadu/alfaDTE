@@ -37,7 +37,7 @@ class CotizacionEmail extends Mailable
     {
         //return $this->markdown('emails.dte.cotizacion');
 
-        return $this->from('acostadu@gmail.com')
+        return $this->from('acosta.wilfredo@gmail.com')
                     ->markdown('emails.dte.cotizacion')
                     ->subject('Por favor confirma tu correo');        
     }
